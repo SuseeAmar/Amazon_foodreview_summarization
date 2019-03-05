@@ -26,7 +26,16 @@ Attribute Information:
 10.Text - text of the review
 
 
+**Objective**
 
+Given a product, summarize the review based on the ratings. Can be done in two ways
+1. Classify as positive (rating 5 & 4) or negative (rating 1 & 2) and summarize them
+2. Summarize individual rating wise
+
+
+**[Q]** How to determine if a review is positive or negative?
+
+**[Ans]** We could use the Score/Rating. A rating of 4 or 5 could be cosnidered a positive review. A review of 1 or 2 could be considered negative. A review of 3 is nuetral and ignored. This is an approximate and proxy way of determining the polarity (positivity/negativity) of a review.
 
 
 
