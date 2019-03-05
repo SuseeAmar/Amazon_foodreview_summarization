@@ -29,8 +29,8 @@ Attribute Information:
 **Objective**
 
 Given a product, summarize the review based on the ratings. Can be done in two ways
-1. Classify as positive (rating 5 & 4) or negative (rating 1 & 2) and summarize them
-2. Summarize individual rating wise
+1. Combine the review as positive (rating 5 & 4) or negative (rating 1 & 2) and summarize them
+2. Summarize the review by their individual rating
 
 
 **[Q]** How to determine if a review is positive or negative?
